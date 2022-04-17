@@ -1,3 +1,5 @@
+# DROPPING SUPPORT
+I'm dropping support for that plugin to focus on more important ones. I'm sure there is a better alternative.
 # ConsoleTextChat
 A simple plugin letting your players chat in their game console.
 # Instalation
